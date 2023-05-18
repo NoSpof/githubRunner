@@ -1,6 +1,6 @@
 # Github Runner selfhosted
 
-
+you can build a prvate runner to execute github actions workload. 
 
 # How to build:
 
